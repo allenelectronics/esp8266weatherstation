@@ -38,6 +38,7 @@ You need to make sure all these libraries are installed and included in the code
 
 
 The last part that needs changing is your location as this project does not use GPS. You need to modify the “LOCATION” string:
+
 else if(buttonState2 == LOW && prevButtonState2== HIGH){
 
   Serial.print("LOCATION\n");
