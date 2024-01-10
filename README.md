@@ -1,5 +1,8 @@
 # esp8266weatherstation
 
+UPDATE JAN 2024 ***REMOTEME.ORG is NO LONGER FUNCTIONAL AND AS SUCH THIS CODE IS NO LONGER FUNCTIONAL***
+
+
 The code is compiled in the Arduino IDE and needs some configuration to work
 Firstly, you need to install the ESP8266 Board to the IDE in order to upload code to it.
 
